@@ -1,4 +1,4 @@
-import ProfilePng from "./profile.png";
+import ProfilePng from "./profile.jpeg";
 import CssIcon from "./css.svg";
 import Html from "./Html.png";
 import Tailwindcss from "./tailwindcss.png";
