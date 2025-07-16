@@ -19,7 +19,7 @@ const AboutMe = () => {
         transition={{ duration: 1 }}
         className="text-center max-w-2xl  tracking-wider"
       >
-        I'm Kyaw San Oo, a self-taught full stack developer from Myanmar. I
+        I'm Kyaw San Oo, a self-study full stack developer from Myanmar. I
         discovered my passion for programming through self-study, and since
         then, I’ve been consistently learning and building real-world
         applications. What I enjoy most about programming is the challenge of
